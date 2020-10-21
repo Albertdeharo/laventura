@@ -1,0 +1,23 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albertdeharo/laventura.git"
+  },
+  "author": "Albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albertdeharo/laventura/issues"
+  },
+  "homepage": "https://github.com/Albertdeharo/laventura#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
